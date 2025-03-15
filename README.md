@@ -1,6 +1,12 @@
 # Global-Electronics-Retailer-Analysis
 The dataset represents sales data from a global electronics retailer. It contains tables with information on transactions, products, customers, and stores. It records sales figures, customer interactions, and store performance.
 
+# Tablaeu Public-link Overall Analysis:
+https://public.tableau.com/views/GlobalElectronicsRetailer_17418473253390/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+# Tablaeu Public-link Sales Analysis:
+https://public.tableau.com/shared/2CF5JY5X3?:display_count=n&:origin=viz_share_link
+
 # Overall Analysis
 KPIs:
 •	Total Customers: 11,887
