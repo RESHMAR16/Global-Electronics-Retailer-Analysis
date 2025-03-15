@@ -22,6 +22,30 @@ KPIs:
 6.  Net Sales Across Subcategories:
 •	Top 5: Desktops, Televisions, Projectors & Screens, Water Heaters and Camcorders.
 
+# Sales Analysis
+KPIs:
+•	Total Categories: 8
+•	Total Subcategories: 32
+•	Gross Sales: $278.8M
+•	Net Sales: $298.9M
+•	Total Profit: $51.7M
+
+
+# Key Insights from Charts:
+1.	Gross Sales Across Age Groups:
+o	Seniors contribute the highest sales, followed by middle-aged adults and young adults.
+2.	Gross Sales Across Brands:
+o	Adventure Works and Contoso lead in sales, while Northwind Traders and Tailspin Toys have the lowest sales.
+3.	Top Products by Sales:
+o	The best-selling products are WWI Desktop PC2.33 X2330 Black, Adventure Works Desktop PC2.33 XD233 Silver, and Adventure Works Desktop PC2.33 XD233 Brown.
+4.	Quantity Sold by Category:
+o	Computers have the highest quantity sold, followed by cell phones and music, movies, and audiobooks.
+5.	Category-wise Profit Summary:
+o	The most profitable categories are computers, home appliances, and cameras & camcorders, while games and toys have the lowest profit margins.
+6.	Top Profitable Products:
+o	Adventure Works Desktop PC2.33 XD233 Black, WWI Desktop PC2.33 X2330 Black, and Adventure Works Desktop PC2.33 XD233 Silver contribute the highest profits.
+
+
 # Findings:
 
  **Market Trends & Performance**
@@ -31,6 +55,7 @@ KPIs:
 **Sales & Profitability Patterns**
 •	The United States leads in profit. The United Kingdom rank next, making Europe a strong secondary market.
 •	Categories like Cameras, Camcorders, TV & Video have lower customer counts, indicating either low demand or potential gaps in marketing and pricing.
+•	The dominance of computers in both sales and profit highlights their importance as the retailer’s primary revenue driver. 
 
 # Recommendations:
 
@@ -40,6 +65,7 @@ o	Analyzing customer needs
 o	Offering competitive pricing
 o	Introducing promotions or product bundling
 •	Focus on high-profit markets like the United States and United Kingdom while exploring opportunities to boost performance in lower-performing regions.
+•	Target Senior Consumers, Offer promotions or product recommendations tailored to senior buyers.
 
 
 
